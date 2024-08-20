@@ -1,7 +1,7 @@
 # tec-nm-tlaxiaco-arqui-compu
 
 Repositorio Aquitectura de Computadoras 5BS
-
+## Agregado por Marco Uriel 
 ## Evaluación
 
 ### Prácticas 1-5 [?]%

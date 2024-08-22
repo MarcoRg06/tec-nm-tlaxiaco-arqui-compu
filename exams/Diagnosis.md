@@ -99,13 +99,10 @@ Responde las siguientes preguntas con claridad. Cada sección tiene un peso espe
 2. **Pregunta de Desarrollo:**  
    Dibuja el circuito lógico correspondiente a la expresión booleana: A•B+C.
 
- A )   ----
-         
-         |AND|-----------
-
- B )   ----                |OR|-------  A•B+C
-               
-                 C)   ------   
+ A )   ----|      
+           |AND|------------|
+ B )   ----|                |OR|-------  A•B+C     
+                 C)   ------|      
  
    
 4. **Pregunta de Ejercicio:**  

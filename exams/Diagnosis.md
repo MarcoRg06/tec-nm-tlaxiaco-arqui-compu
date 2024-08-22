@@ -100,7 +100,7 @@ Responde las siguientes preguntas con claridad. Cada sección tiene un peso espe
    Dibuja el circuito lógico correspondiente a la expresión booleana: A•B+C.
 
  A )   ----|      
-           |AND|------------|
+   -         |AND|------------|
  B )   ----|                |OR|-------  A•B+C     
                  C)   ------|      
  
